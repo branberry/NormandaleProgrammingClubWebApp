@@ -7,3 +7,5 @@ How to use:
  - Once downloaded, follow the installation instructions using a command prompt here: https://facebook.github.io/react/docs/installation.html#creating-a-new-application
  
  - This might take a few minutes, but once you are done, remove everything from your src folder and create an index.css and index.js files
+ - To end the server after using npm start, press Ctrl + C twice.  I believe it is Cmd + C on Mac.
+ - If you plan to use a school computer, you can simply use codepen.io to generate the site
